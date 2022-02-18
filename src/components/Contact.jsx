@@ -1,11 +1,5 @@
 import React, { Component } from 'react'
-import styled from 'styled-components'
-import { Link } from 'react-router-dom'
 import '../css/style.css'
-
-const Container = styled.div.attrs({
-    className: 'container',
-})``
 
 class Contact extends Component {
     render() {

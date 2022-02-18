@@ -1,13 +1,5 @@
 import React, { Component } from 'react'
-import styled from 'styled-components'
-import { Link, withRouter } from 'react-router-dom'
-
-
-const Container = styled.div.attrs({
-    className: 'container',
-})``
-
-
+import { withRouter } from 'react-router-dom'
 
 class Home extends Component {
     render() {

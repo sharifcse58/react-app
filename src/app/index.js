@@ -1,8 +1,8 @@
 import React from 'react'
-import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import styled from 'styled-components'
 
-import { NavBar, Home, About, Blog, Project, Contact, Header, SideBar } from '../components'
+import { Home, About, Blog, Project, Contact, SideBar } from '../components'
 import { MoviesList,MoviesInsert,MoviesUpdate } from '../pages'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
