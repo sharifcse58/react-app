@@ -14,7 +14,7 @@ class Contact extends Component {
                         <input class="customInput" type="text"/>
                         <label class="defaultLabel" htmlFor="">Phone</label>
                         <input class="customInput" type="text"/>
-                        <div><a class="mehedi common-top-margin" href="#">Submit</a></div>
+                        <div><button class="mehedi common-top-margin">Submit</button></div>
                     </div>
                 </div> 
             </React.Fragment>

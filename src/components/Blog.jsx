@@ -1,12 +1,5 @@
 import React, { Component } from 'react'
-import styled from 'styled-components'
 import '../css/style.css'
-
-const Container = styled.div.attrs({
-    className: 'container',
-})``
-
-
 
 class Blog extends Component {
     render() {
