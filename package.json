@@ -1,6 +1,6 @@
 {
-  "name": "react-pages",
-  "homepage": "https://pragmaticreviews.github.io/react-pages",
+  "name": "react-app",
+  "homepage": "https://pragmaticreviews.github.io/react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
