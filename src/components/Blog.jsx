@@ -16,7 +16,7 @@ class Blog extends Component {
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eum nesciunt nam porro fuga laudantium earum qui quisquam temporibus placeat aliquid, ab quis accusamus ut officia doloribus, doloremque quo? Dolores!
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eum nesciunt nam porro fuga laudantium earum qui quisquam temporibus placeat aliquid, ab quis accusamus ut officia doloribus, doloremque quo? Dolores!
                     </p>
-                    <div><a class="readMore" href="#">Read more ... </a></div>
+                    <div><h3 class="readMore">Read more ... </h3></div>
                 </div>
 
                 <div className="blog">
@@ -27,7 +27,7 @@ class Blog extends Component {
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eum nesciunt nam porro fuga laudantium earum qui quisquam temporibus placeat aliquid, ab quis accusamus ut officia doloribus, doloremque quo? Dolores!
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eum nesciunt nam porro fuga laudantium earum qui quisquam temporibus placeat aliquid, ab quis accusamus ut officia doloribus, doloremque quo? Dolores!
                     </p>
-                    <div><a class="readMore" href="#">Read more ... </a></div>
+                    <div><h3 class="readMore">Read more ... </h3></div>
                 </div>
 
                 <div className="blog">
@@ -38,7 +38,7 @@ class Blog extends Component {
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eum nesciunt nam porro fuga laudantium earum qui quisquam temporibus placeat aliquid, ab quis accusamus ut officia doloribus, doloremque quo? Dolores!
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eum nesciunt nam porro fuga laudantium earum qui quisquam temporibus placeat aliquid, ab quis accusamus ut officia doloribus, doloremque quo? Dolores!
                     </p>
-                    <div><a class="readMore" href="#">Read more ... </a></div>
+                    <div><h3 class="readMore">Read more ... </h3></div>
                 </div>
 
                 <div className="blog">
@@ -49,7 +49,7 @@ class Blog extends Component {
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eum nesciunt nam porro fuga laudantium earum qui quisquam temporibus placeat aliquid, ab quis accusamus ut officia doloribus, doloremque quo? Dolores!
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eum nesciunt nam porro fuga laudantium earum qui quisquam temporibus placeat aliquid, ab quis accusamus ut officia doloribus, doloremque quo? Dolores!
                     </p>
-                    <div><a class="readMore" href="#">Read more ... </a></div>
+                    <div><h3 class="readMore">Read more ... </h3></div>
                 </div>
 
                 <div className="blog">
@@ -60,7 +60,7 @@ class Blog extends Component {
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eum nesciunt nam porro fuga laudantium earum qui quisquam temporibus placeat aliquid, ab quis accusamus ut officia doloribus, doloremque quo? Dolores!
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita eum nesciunt nam porro fuga laudantium earum qui quisquam temporibus placeat aliquid, ab quis accusamus ut officia doloribus, doloremque quo? Dolores!
                     </p>
-                    <div><a class="readMore" href="#">Read more ... </a></div>
+                    <div><h3 class="readMore">Read more ... </h3></div>
                 </div>
 
                
