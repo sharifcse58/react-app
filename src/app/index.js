@@ -2,6 +2,8 @@ import React from "react";
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import styled from "styled-components";
 
+import "../css/style.css";
+
 import {
   Home,
   Header,
