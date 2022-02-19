@@ -5,16 +5,16 @@ class Contact extends Component {
     render() {
         return (
             <React.Fragment>
-                <div class="common-card">
-                    <div class="contactBox">
+                <div className="common-card">
+                    <div className="contactBox">
                         <h2>Contact with me</h2>
-                        <label class="defaultLabel" htmlFor="">Name</label>
-                        <input class="customInput" type="text"/>
-                        <label class="defaultLabel" htmlFor="">Email</label>
-                        <input class="customInput" type="text"/>
-                        <label class="defaultLabel" htmlFor="">Phone</label>
-                        <input class="customInput" type="text"/>
-                        <div><button class="mehedi common-top-margin">Submit</button></div>
+                        <label className="defaultLabel" htmlFor="">Name</label>
+                        <input className="customInput" type="text"/>
+                        <label className="defaultLabel" htmlFor="">Email</label>
+                        <input className="customInput" type="text"/>
+                        <label className="defaultLabel" htmlFor="">Phone</label>
+                        <input className="customInput" type="text"/>
+                        <div><button className="mehedi common-top-margin">Submit</button></div>
                     </div>
                 </div> 
             </React.Fragment>

@@ -5,11 +5,11 @@ class Home extends Component {
     render() {
         return (
             <React.Fragment>
-                <div class="col-md-9 col-sm-12">
-                    <div class="common-card">
-                        <div class="aboutme" uk-scrollspy="cls: uk-animation-slide-right;">
+                <div className="col-md-9 col-sm-12">
+                    <div className="common-card">
+                        <div className="aboutme" uk-scrollspy="cls: uk-animation-slide-right;">
 
-                            <div class="about-info">
+                            <div className="about-info">
 
                             <h5>A Full Stack Laravel Vue js and React JS Software Developer</h5> 
                                 <p>I have 2 years 5 months working experience in different software company. Javascript, nodeJS Mongodb, express, featherjs, React, react native, electronjs are my top key skills and gathered experince through invoving myself in development of many desktop application , Web application.</p>
@@ -19,36 +19,36 @@ class Home extends Component {
                         </div>
                     </div>
 
-                    <div class="common-card" uk-grid uk-scrollspy="cls: uk-animation-slide-left; target: .uk-card; delay: 300; repeat: true">
-                        <div class="about">
-                            <span class="lftBorder"></span>
-                            <div class="aboutCont uk-card uk-card-default uk-card-body">
-                                <div class="aboutHdr"><span>December, 2018 - Present</span></div>
-                                <div class="aboutItem">
+                    <div className="common-card" uk-grid uk-scrollspy="cls: uk-animation-slide-left; target: .uk-card; delay: 300; repeat: true">
+                        <div className="about">
+                            <span className="lftBorder"></span>
+                            <div className="aboutCont uk-card uk-card-default uk-card-body">
+                                <div className="aboutHdr"><span>December, 2018 - Present</span></div>
+                                <div className="aboutItem">
                                     <h4>Software engineer</h4>
                                     <h5>Mars Solution Ltd</h5>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci obcaecati voluptates nostrum. Odio quis aliquid minima, voluptatibus voluptatum eveniet, nemo architecto adipisci eligendi repellat nobis nostrum. Officia beatae illo veritatis.</p>
                                 </div>
                             </div>
-                            <div class="aboutCont uk-card uk-card-default uk-card-body">
-                                <div class="aboutHdr"><span>December, 2018 - Present</span></div>
-                                <div class="aboutItem">
+                            <div className="aboutCont uk-card uk-card-default uk-card-body">
+                                <div className="aboutHdr"><span>December, 2018 - Present</span></div>
+                                <div className="aboutItem">
                                     <h4>Software engineer</h4>
                                     <h5>Mars Solution Ltd</h5>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci obcaecati voluptates nostrum. Odio quis aliquid minima, voluptatibus voluptatum eveniet, nemo architecto adipisci eligendi repellat nobis nostrum. Officia beatae illo veritatis.</p>
                                 </div>
                             </div>
-                            <div class="aboutCont uk-card uk-card-default uk-card-body">
-                                <div class="aboutHdr"><span>December, 2018 - Present</span></div>
-                                <div class="aboutItem">
+                            <div className="aboutCont uk-card uk-card-default uk-card-body">
+                                <div className="aboutHdr"><span>December, 2018 - Present</span></div>
+                                <div className="aboutItem">
                                     <h4>Software engineer</h4>
                                     <h5>Mars Solution Ltd</h5>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci obcaecati voluptates nostrum. Odio quis aliquid minima, voluptatibus voluptatum eveniet, nemo architecto adipisci eligendi repellat nobis nostrum. Officia beatae illo veritatis.</p>
                                 </div>
                             </div>
-                            <div class="aboutCont uk-card uk-card-default uk-card-body">
-                                <div class="aboutHdr"><span>December, 2018 - Present</span></div>
-                                <div class="aboutItem">
+                            <div className="aboutCont uk-card uk-card-default uk-card-body">
+                                <div className="aboutHdr"><span>December, 2018 - Present</span></div>
+                                <div className="aboutItem">
                                     <h4>Software engineer</h4>
                                     <h5>Mars Solution Ltd</h5>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci obcaecati voluptates nostrum. Odio quis aliquid minima, voluptatibus voluptatum eveniet, nemo architecto adipisci eligendi repellat nobis nostrum. Officia beatae illo veritatis.</p>

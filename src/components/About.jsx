@@ -5,15 +5,15 @@ import React, { Component } from 'react'
 class About extends Component {
     render() {
         return (
-            <div class="col-md-9 col-sm-12">
-                <div class="common-card">
+            <div className="col-md-9 col-sm-12">
+                <div className="common-card">
                     
-                    <div class="aboutContent">
+                    <div className="aboutContent">
 
-                        <div class="heding">Hello, I am Mehedi Hasan</div>
+                        <div className="heding">Hello, I am Mehedi Hasan</div>
 
                         <div className="col-sm-12">
-                            <img class="aboutImgStyle" src={process.env.PUBLIC_URL + '/profilepic.jpg'} alt=""/>
+                            <img className="aboutImgStyle" src={process.env.PUBLIC_URL + '/profilepic.jpg'} alt=""/>
                         </div>
 
                         <p>
@@ -26,23 +26,23 @@ class About extends Component {
                             While getting my masters degree in Information Technologies & Business Informatics in 2015, I started to learn more about web and mobile development with React and React Native, which finally lead to my role as App Development Lead at Axtesys. 
                         </p>
                         <h2>Education and Work Experience</h2>
-                        <div class="educationInfo">
-                            <div class="educationDate">04/2018</div>
-                            <div class="educationTitle">	“App Development Lead” at Axtesys OG</div>
-                            <div class="educationDate">04/2018</div>
-                            <div class="educationTitle">	“App Development Lead” at Axtesys OG</div>
-                            <div class="educationDate">04/2018</div>
-                            <div class="educationTitle">	“App Development Lead” at Axtesys OG</div>
-                            <div class="educationDate">04/2018</div>
-                            <div class="educationTitle">	“App Development Lead” at Axtesys OG</div>
-                            <div class="educationDate">04/2018</div>
-                            <div class="educationTitle">	“App Development Lead” at Axtesys OG</div>
-                            <div class="educationDate">04/2018</div>
-                            <div class="educationTitle">	“App Development Lead” at Axtesys OG</div>
-                            <div class="educationDate">04/2018</div>
-                            <div class="educationTitle">	“App Development Lead” at Axtesys OG</div>
+                        <div className="educationInfo">
+                            <div className="educationDate">04/2018</div>
+                            <div className="educationTitle">	“App Development Lead” at Axtesys OG</div>
+                            <div className="educationDate">04/2018</div>
+                            <div className="educationTitle">	“App Development Lead” at Axtesys OG</div>
+                            <div className="educationDate">04/2018</div>
+                            <div className="educationTitle">	“App Development Lead” at Axtesys OG</div>
+                            <div className="educationDate">04/2018</div>
+                            <div className="educationTitle">	“App Development Lead” at Axtesys OG</div>
+                            <div className="educationDate">04/2018</div>
+                            <div className="educationTitle">	“App Development Lead” at Axtesys OG</div>
+                            <div className="educationDate">04/2018</div>
+                            <div className="educationTitle">	“App Development Lead” at Axtesys OG</div>
+                            <div className="educationDate">04/2018</div>
+                            <div className="educationTitle">	“App Development Lead” at Axtesys OG</div>
                         </div>
-                        <h2 class="common-top-margin">What do I write about?</h2>
+                        <h2 className="common-top-margin">What do I write about?</h2>
                         <p>I write about software development. More precisely, I will focus on web development. So you can expect posts about JavaScript, Frameworks like ReactJS or useful libraries.
 
                             As an example, learn about my way into web development:
