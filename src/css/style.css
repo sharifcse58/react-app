@@ -10,6 +10,11 @@ body{
     margin: 0;
 }
 
+*{
+margin: 0;
+padding: 0;
+}
+
 .row{
     height: 100%;
     padding: 0;
@@ -384,23 +389,33 @@ transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will g
     .col-sm-9 {width: 75%;}
     .col-sm-10 {width: 83.33%;}
     .col-sm-11 {width: 91.66%;}
-    .col-sm-12 {width: 100%;}
+    .col-sm-12 {
+        width: 100%;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
 
-    .content{
-        margin: 0px 23px 5px 2px;
+    .content {
+        height: 100%;
+        margin-right: -24px !important;
+        background-color: white;
+        margin-left: 21px !important;
     }
 
     .left-menu{
         display: none;
     }
     .common-card {
-        margin: 22px 0 0 11px;
-        padding: 21px;
+        margin: 0px;
+        padding: 0px;
     }
     .aboutImgStyle {
-        float: left;
         margin-bottom: 26px;
         margin-left: 0px;
+        clear: both;
+        display: inline-block;
+        position: relative;
+        width: 100%;
     }
 
     .aboutHdr {
