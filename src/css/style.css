@@ -372,7 +372,7 @@ transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will g
     display: block;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 360px) {
     .col-sm-1 {width: 8.33%;}
     .col-sm-2 {width: 16.66%;}
     .col-sm-3 {width: 25%;}
