@@ -456,7 +456,7 @@ transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will g
     }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 768px) {
     /* For desktop: */
     .col-md-1 { width: 8.33%;}
     .col-md-2 { width: 16.66%;}
