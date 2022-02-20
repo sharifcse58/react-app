@@ -386,18 +386,32 @@ transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will g
     .col-sm-11 {width: 91.66%;}
     .col-sm-12 {width: 100%;}
 
+    .content{
+        margin: 0px 23px 5px 2px;
+    }
+
     .left-menu{
         display: none;
     }
     .common-card {
         margin: 22px 0 0 11px;
-        padding: 0;
+        padding: 21px;
     }
     .aboutImgStyle {
         float: left;
         margin-bottom: 26px;
         margin-left: 0px;
     }
+
+    .aboutHdr {
+        padding: 0px;
+        margin: 0;
+        border-radius: 10px;
+        color: #fff;
+        background-color: #2A2F4A;
+        font-size: x-small;
+    }
+
     .about{
         text-align: center;
     }
@@ -444,7 +458,7 @@ transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will g
     }
 
     .project-card {
-        margin: 10px;
+        margin: 0;
         padding: 10px 0;
         background-color: #FFFFFF;
         border-radius: 10px;
@@ -453,6 +467,11 @@ transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will g
         width: 324px;
         display: inline-block;
         box-sizing: border-box;
+    }
+
+    .contactBox {
+        margin: 0 auto;
+        width: 100%;
     }
 }
 

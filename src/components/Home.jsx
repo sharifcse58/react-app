@@ -5,7 +5,6 @@ class Home extends Component {
     render() {
         return (
             <React.Fragment>
-                <div className="col-md-9 col-sm-12">
                     <div className="common-card">
                         <div className="aboutme" uk-scrollspy="cls: uk-animation-slide-right;">
 
@@ -56,8 +55,6 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-                </div>
-                
                 </React.Fragment>
         )
     }

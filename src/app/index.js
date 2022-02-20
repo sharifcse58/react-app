@@ -29,11 +29,11 @@ function App(props) {
           <SideBar />
         </div>
 
-        <div class="col-md-9 col-sm-11">
+        <div class="col-md-9 col-sm-12">
+          <div class="nav-header">
+            <Header />
+          </div>
           <div class="content">
-            <div class="nav-header">
-              <Header />
-            </div>
             <Switch>
               <Route exact path="/about" component={Home} />
               <Route exact path="/" component={About} />

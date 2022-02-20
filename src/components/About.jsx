@@ -5,7 +5,6 @@ import React, { Component } from 'react'
 class About extends Component {
     render() {
         return (
-            <div className="col-md-9 col-sm-12">
                 <div className="common-card">
                     
                     <div className="aboutContent">
@@ -49,8 +48,6 @@ class About extends Component {
                         </p>
                     </div>  
                 </div> 
-            </div>
-           
         )
     }
 }
