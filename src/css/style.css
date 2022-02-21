@@ -406,7 +406,7 @@ transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will g
         display: none;
     }
     .common-card {
-        margin: 15px !important;
+        margin: 6px !important;
         padding: 0px;
     }
     .aboutImgStyle {
