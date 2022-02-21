@@ -7,11 +7,11 @@ class Header extends Component {
         return (
             <div className="header">
                 <ul> 
-                    <li> <div><i className="fas fa-home"></i></div> <Link to="/">Home</Link> </li>
-                    <li><div><i className="fas fa-address-card"></i></div> <Link to="/about">Resume</Link> </li>
-                    <li><div><i className="fas fa-address-card"></i></div><Link to="/projects">Projects</Link> </li>
-                    <li><div><i className="fas fa-info-circle"></i></div><Link to="/blog">Blog</Link> </li>
-                    <li><div><i className="far fa-address-book"></i></div><Link to="/contact">Contact</Link> </li>
+                    <li> <Link to="/"> <i className="fas fa-home"></i> Home</Link>   </li>
+                    <li> <Link to="/about"><i className="fas fa-address-card"></i> Resume</Link> </li>
+                    <li> <Link to="/projects"> <i className="fas fa-address-card"></i> Projects</Link> </li>
+                    <li> <Link to="/blog"> <i className="fas fa-info-circle"></i> Blog</Link> </li>
+                    <li> <Link to="/contact"><i className="far fa-address-book"></i> Contact</Link> </li>
                 </ul>
             </div>
         )
