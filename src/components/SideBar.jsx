@@ -18,7 +18,7 @@ class SideBar extends Component {
                     </div>
                     <div className="linksdiv">
                         <ul className="nav-menu">
-                            <li><Link to="/">About</Link></li>
+                            <li><Link to="/">Home</Link></li>
                             <li><Link to="/about">Resume</Link></li>
                             <li><Link to="/projects">Projects</Link></li>
                             <li><Link to="/blog">Blog</Link></li>

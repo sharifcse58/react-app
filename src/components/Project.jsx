@@ -5,6 +5,7 @@ class Project extends Component {
         return (
             <React.Fragment>  
             <div className="project-div">
+                
                 <div className="project-card">
                     <img className="projectCardImg zoom" height="100%" width="100%" src={process.env.PUBLIC_URL + '/project.jpg'} alt={"project"}/> 
                     <div className="project-card-content">
@@ -15,6 +16,7 @@ class Project extends Component {
                        
                     </div>
                 </div> 
+
                 <div className="project-card">
                     <img className="projectCardImg zoom" height="100%" width="100%" src={process.env.PUBLIC_URL + '/project.jpg'} alt={"project"}/> 
                     <div className="project-card-content">
